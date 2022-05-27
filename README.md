@@ -1,5 +1,0 @@
-# minitalk
-
-**norminette**
-**header**
-**leaks**
